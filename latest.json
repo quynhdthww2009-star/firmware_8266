@@ -3,45 +3,45 @@
     "stable": {
       "latest": "1.0.2",
       "releases": [
-        { 
-          "version": "1.0.0", 
-          "bin": "https://raw.githubusercontent.com/username/repo/main/bin/v1.0.0.bin", 
-          "md5": "a1b2c3d4e5f6g7h8i9j0", 
-          "notes": "Phiên bản khởi đầu, kết nối Wi-Fi ổn định." 
+        {
+          "version": "1.0.0",
+          "bin": "https://raw.githubusercontent.com/quynhdthww2009-star/firmware_8266/main/bin/v1.0.0.bin",
+          "md5": "a1b2c3d4e5f6g7h8i9j0",
+          "notes": "Phiên bản khởi đầu, kết nối Wi-Fi ổn định."
         },
-        { 
-          "version": "1.0.1", 
-          "bin": "https://raw.githubusercontent.com/username/repo/main/bin/v1.0.1.bin", 
-          "md5": "b2c3d4e5f6g7h8i9j0k1", 
-          "notes": "Fixed: Lỗi mất kết nối Wi-Fi khi chạy thời gian dài." 
+        {
+          "version": "1.0.1",
+          "bin": "https://raw.githubusercontent.com/quynhdthww2009-star/firmware_8266/main/bin/v1.0.1.bin",
+          "md5": "b2c3d4e5f6g7h8i9j0k1",
+          "notes": "Fixed: Lỗi mất kết nối Wi-Fi khi chạy thời gian dài."
         },
-        { 
-          "version": "1.0.2", 
-          "bin": "https://raw.githubusercontent.com/username/repo/main/bin/v1.0.2.bin", 
-          "md5": "c3d4e5f6g7h8i9j0k1l2", 
-          "notes": "Fixed: Tối ưu bộ nhớ đệm và sửa lỗi crash khi xử lý JSON." 
+        {
+          "version": "1.0.2",
+          "bin": "https://raw.githubusercontent.com/quynhdthww2009-star/firmware_8266/main/bin/v1.0.2.bin",
+          "md5": "c3d4e5f6g7h8i9j0k1l2",
+          "notes": "Fixed: Tối ưu bộ nhớ đệm và sửa lỗi crash khi xử lý JSON."
         }
       ]
     },
     "beta": {
       "latest": "1.1.0-beta",
       "releases": [
-        { 
-          "version": "1.1.0-beta", 
-          "bin": "https://raw.githubusercontent.com/username/repo/main/bin/v1.1.0-beta.bin", 
-          "md5": "d4e5f6g7h8i9j0k1l2m3", 
-          "notes": "Thêm tính năng MQTT mới, đang thử nghiệm." 
+        {
+          "version": "1.1.0-beta",
+          "bin": "https://raw.githubusercontent.com/quynhdthww2009-star/firmware_8266/main/bin/v1.1.0-beta.bin",
+          "md5": "d4e5f6g7h8i9j0k1l2m3",
+          "notes": "Thêm tính năng MQTT mới, đang thử nghiệm."
         }
       ]
     },
     "dev": {
       "latest": "1.2.0-dev",
       "releases": [
-        { 
-          "version": "1.2.0-dev", 
-          "bin": "https://raw.githubusercontent.com/username/repo/main/bin/v1.2.0-dev.bin", 
-          "md5": "e5f6g7h8i9j0k1l2m3n4", 
-          "notes": "Chưa ổn định: Đang phát triển tính năng cập nhật qua Bluetooth." 
+        {
+          "version": "1.2.0-dev",
+          "bin": "https://raw.githubusercontent.com/quynhdthww2009-star/firmware_8266/main/bin/v1.2.0-dev.bin",
+          "md5": "e5f6g7h8i9j0k1l2m3n4",
+          "notes": "Chưa ổn định: Đang phát triển tính năng cập nhật qua Bluetooth."
         }
       ]
     }
